@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm larry, a Software Developer and postgraduate in Xi'an Jiaotong University.
 
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
+- ✨ Working on the graduated design project;
+- 😉 Rearrangement and open source;
+- 😥 Job-hunting and hope well
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 👨‍🔧 I'm currently living at **Xi'an China**
+- ⚙️ I use daily: `.cpp`, `.go`, `.py`, `.c`
+- 🌱 A new boy in project and **Open Source**
+- 📫 Reach my website: [larrystd.site](https://larrystd.site)
+- ⚡️ Hope we live and work happily
