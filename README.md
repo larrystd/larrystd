@@ -1,7 +1,6 @@
 Hi there 👋
 
-I'm Larry, a passionate Software Developer and postgraduate student at Xi'an Jiaotong University.
-What I'm Up To
+I'm Larry, a passionate Software Developer. What I'm Up To
 - ✨ Currently working on basic platform development (backend and infrastructure).
 - 🤖 Exploring large language models (LLMs) and their applications in real-world scenarios.
 - 🎨 Diving into frontend development to build intuitive and user-friendly interfaces.
