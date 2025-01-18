@@ -1,15 +1,16 @@
 Hi there 👋
+
 I'm Larry, a passionate Software Developer and postgraduate student at Xi'an Jiaotong University.
 What I'm Up To
-✨ Currently working on basic platform development (backend and infrastructure).
-🤖 Exploring large language models (LLMs) and their applications in real-world scenarios.
-🎨 Diving into frontend development to build intuitive and user-friendly interfaces.
-⚙️ Deepening my knowledge of backend development to create scalable and efficient systems.
+- ✨ Currently working on basic platform development (backend and infrastructure).
+- 🤖 Exploring large language models (LLMs) and their applications in real-world scenarios.
+- 🎨 Diving into frontend development to build intuitive and user-friendly interfaces.
+- ⚙️ Deepening my knowledge of backend development to create scalable and efficient systems.
 
 About Me
-⚙️ Daily tools: .cpp, .go, .py
-🌱 Exploring project development and diving into the world of Open Source.
-📫 Reach me at my website: larrystd.github.io.
+- ⚙️ Daily tools: .cpp, .go, .py
+- 🌱 Exploring project development and diving into the world of Open Source.
+- 📫 Reach me at my website: larrystd.github.io.
 
 Let's Connect
-💬 Feel free to reach out if you'd like to collaborate, discuss tech, or just say hi!
+- 💬 Feel free to reach out if you'd like to collaborate, discuss tech, or just say hi!
