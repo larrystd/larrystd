@@ -7,7 +7,7 @@ I'm Larry, a passionate Software Developer. What I'm Up To
 - ⚙️ Deepening my knowledge of backend development to create scalable and efficient systems.
 
 About Me
-- ⚙️ Daily tools: .cpp, .go, .py
+- ⚙️ Daily tools: .cpp, .go, .py, .java
 - 🌱 Exploring project development and diving into the world of Open Source.
 - 📫 Reach me at my website: larrystd.github.io.
 
