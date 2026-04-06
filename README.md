@@ -20,7 +20,7 @@
 
 ### About Me
 
-Storage infrastructure engineer by day, Vibe Coding practitioner by night. Building high-performance systems in C++/Rust, shipping AI-powered products with Claude Code, and exploring the intersection of quant trading and Web3.
+Storage infrastructure engineer, Vibe Coding enthusiast, quant & Web3 explorer.
 
 ### Featured Projects
 
@@ -33,14 +33,9 @@ Storage infrastructure engineer by day, Vibe Coding practitioner by night. Build
 
 ### What I'm Working On
 
-**High-Performance Storage Infrastructure**
-Building storage engines and distributed systems at scale. From filesystems to databases, pursuing extreme performance with C++ and Rust.
-
-**Vibe Coding & AI-Native Development**
-Claude Code power user. Practicing Vibe Coding — describing intent, letting AI generate, iterating fast. Shipped a full-stack dashboard (Rust + Go + React) in hours, not weeks. AI is not replacing engineers; it's giving us superpowers.
-
-**Quantitative Trading & Web3**
-Exploring systematic trading strategies with data-driven backtesting. Studying on-chain analytics and DeFi protocol design. Where finance meets code.
+- **Storage Infrastructure** — Building high-performance storage engines and distributed systems. Obsessed with latency, throughput, and getting every byte right.
+- **Vibe Coding** — Claude Code power user. Embracing AI-driven full-stack development, turning ideas into products fast.
+- **Quant & Web3** — Exploring systematic trading and Web3 smart contracts. Where finance meets engineering.
 
 ### Contact
 
@@ -52,7 +47,7 @@ Exploring systematic trading strategies with data-driven backtesting. Studying o
 
 ### 关于我
 
-存储基础设施工程师，Vibe Coding 实践者。白天用 C++/Rust 构建高性能系统，晚上用 Claude Code 快速交付 AI 产品，同时探索量化交易与 Web3 的可能性。
+存储基础设施工程师，Vibe Coding 使用者，量化 & Web3 探索中。
 
 ### 精选项目
 
@@ -65,14 +60,9 @@ Exploring systematic trading strategies with data-driven backtesting. Studying o
 
 ### 当前方向
 
-**高性能存储基础设施**
-构建存储引擎与分布式系统。从文件系统到数据库内核，用 C++ 和 Rust 追求极致性能。
-
-**Vibe Coding 与 AI 原生开发**
-Claude Code 深度用户。实践 Vibe Coding — 描述意图，AI 生成，快速迭代。用 AI 在数小时内交付了完整的全栈产品 (Rust + Go + React)。AI 不是取代工程师，而是赋予我们超能力。
-
-**量化交易与 Web3 探索**
-探索数据驱动的系统化交易策略与回测框架。研究链上数据分析与 DeFi 协议设计。金融与代码的交汇点。
+- **存储基础设施** — 构建高性能存储引擎与分布式系统，追求极致的延迟与吞吐。
+- **Vibe Coding** — Claude Code 深度用户，拥抱 AI 驱动全栈开发，快速将想法变为产品。
+- **量化 & Web3** — 探索系统化交易与 Web3 合约，金融与工程的交汇处。
 
 ### 联系方式
 
